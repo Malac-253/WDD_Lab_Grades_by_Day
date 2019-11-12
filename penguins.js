@@ -49,7 +49,7 @@ var mainCode = function(classRoom){
                 .attr("x",2)
                 .attr("y",sheet.aw-35)
         
-            axisX = d3.range(0,
+            //axisX = d3.range(0,
             
         
             //axis y
